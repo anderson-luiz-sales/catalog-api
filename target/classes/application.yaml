@@ -1,6 +1,33 @@
+swagger:
+  contact:
+    name: Anderson Sales
+    email: "anderson.luiz.sales@gmail.com"
+  app:
+    name: catalogi-api
+    version: 0.0.1-SNAPSHOT
+    description: Demo project for Spring Boot
+  base:
+    package: br.com.catalogapi
+
 spring:
   data:
     mongodb:
       host: localhost
       port: 27017
       database: catalog
+  cache:
+    type: redis
+    redis:
+      host: localhost
+      port: 6379
+      time-to-live: 43200s
+
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      base-path:
+      path-mapping:
+        health: /healthcheck
