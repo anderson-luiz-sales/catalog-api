@@ -1,5 +1,6 @@
 package br.com.catalogapi.dtos.responses;
 
+import br.com.catalogapi.entities.Children;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
 import lombok.Data;

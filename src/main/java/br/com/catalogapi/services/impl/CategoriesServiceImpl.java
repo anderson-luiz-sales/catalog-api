@@ -6,6 +6,8 @@ import br.com.catalogapi.services.CategoriesService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 @Service
 public class CategoriesServiceImpl implements CategoriesService {
 
@@ -16,5 +18,10 @@ public class CategoriesServiceImpl implements CategoriesService {
     public Categories save(Categories categories) {
 
         return categoriesRepository.save(categories);
+    }
+
+    @Override
+    public List<Categories> getCategories() {
+        return categoriesRepository.findAll();
     }
 }
