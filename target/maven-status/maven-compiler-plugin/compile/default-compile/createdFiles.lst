@@ -1,0 +1,17 @@
+br/com/catalogapi/facades/CategoriesFacade.class
+br/com/catalogapi/dtos/requests/ChildrenRequestDTO.class
+br/com/catalogapi/services/impl/CategoriesServiceImpl.class
+br/com/catalogapi/dtos/responses/SubCategoriesResponseDTO.class
+br/com/catalogapi/dtos/responses/ChildrenResponseDTO.class
+br/com/catalogapi/entities/Categories.class
+br/com/catalogapi/dtos/responses/CategoriesResponseDTO.class
+br/com/catalogapi/entities/Children.class
+br/com/catalogapi/repositories/CategoriesRepository.class
+br/com/catalogapi/dtos/requests/SubCategoriesRequestDTO.class
+br/com/catalogapi/facades/impl/CategoriesFacadeImp.class
+br/com/catalogapi/dtos/requests/CategoriesRequestDTO.class
+br/com/catalogapi/configurations/SwaggerConfig.class
+br/com/catalogapi/CatalogApiApplication.class
+br/com/catalogapi/services/CategoriesService.class
+br/com/catalogapi/entities/SubCategories.class
+br/com/catalogapi/controller/CategoriesController.class

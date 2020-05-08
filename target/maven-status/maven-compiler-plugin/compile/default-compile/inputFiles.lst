@@ -1,0 +1,17 @@
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/controller/CategoriesController.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/dtos/responses/SubCategoriesResponseDTO.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/entities/SubCategories.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/dtos/requests/ChildrenRequestDTO.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/facades/impl/CategoriesFacadeImp.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/dtos/requests/SubCategoriesRequestDTO.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/repositories/CategoriesRepository.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/dtos/requests/CategoriesRequestDTO.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/entities/Children.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/dtos/responses/CategoriesResponseDTO.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/services/CategoriesService.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/configurations/SwaggerConfig.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/services/impl/CategoriesServiceImpl.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/facades/CategoriesFacade.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/dtos/responses/ChildrenResponseDTO.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/entities/Categories.java
+/home/anderson/workspace/Study Project/catalog-api/src/main/java/br/com/catalogapi/CatalogApiApplication.java
